@@ -1,0 +1,58 @@
+Album Categories = {
+  "data": {
+    "listAlbumCategories": {
+      "items": [
+        {
+          "title": "Lo Fi Chills",
+          "id": "a104c34f-c96b-47a9-b5ef-a33ca6f664b0"
+        },
+        {
+          "title": "Soft Music",
+          "id": "6bc11905-7277-4e63-8a18-1a71b16bfe79"
+        },
+        {
+          "title": "Romantic Music",
+          "id": "db65aa15-df4d-4f48-bc03-5a9e899db21f"
+        },
+        {
+          "title": "Trending Recently",
+          "id": "17d0a288-e88d-4d9f-9293-0577b505d6ce"
+        }
+      ]
+    }
+  }
+}
+
+Albums= {
+    {
+  "data": {
+    "listAlbums": {
+      "items": [
+        {
+          "name": "Cool Down",
+          "id": "5ab59f6e-efd9-4d76-aad8-9e22acb2895e",
+          "createdAt": "2021-09-19T16:56:37.882Z",
+          "artistsHeadline": "Exponents"
+        },
+        {
+          "name": "Romance in Air",
+          "id": "1403636a-9213-44ba-85c0-743063221412",
+          "createdAt": "2021-09-19T17:37:29.066Z",
+          "artistsHeadline": "Romance"
+        },
+        {
+          "name": "Bollywood Lo Fi",
+          "id": "0e2f58ba-4301-4e22-8746-14a6c1b9d115",
+          "createdAt": "2021-09-19T16:53:19.106Z",
+          "artistsHeadline": "Bollywood"
+        },
+        {
+          "name": "Money Heist",
+          "artistsHeadline": "Money Heist",
+          "id": "448e79fa-85e9-4fb8-a042-fd7fc97a2826"
+        }
+      ]
+    }
+  }
+}
+}
