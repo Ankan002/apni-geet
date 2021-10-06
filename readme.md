@@ -1,5 +1,3 @@
-# Apni Geet:
-
 This is just the preview v1.
 
 - [Web Version](https://apni-geet.netlify.app/)
